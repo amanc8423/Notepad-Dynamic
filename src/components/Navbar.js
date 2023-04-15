@@ -15,7 +15,7 @@ const Navbar = () => {
     <div>
       
 <div className="navbar" style={myStyle}>
-    NOTEPAD
+    MAGICAL NOTEPAD
 </div>
 
     </div>
