@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Navbar = () => {
-
+document.body.style.backgroundColor="grey";
     let myStyle = {
         display:"flex",
         justifyContent:"center",
